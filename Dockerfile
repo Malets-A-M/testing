@@ -1,4 +1,4 @@
-COPY https://github.com/Malets-A-M/stub_0.1.git stub_0.1
+# COPY https://github.com/Malets-A-M/stub_0.1.git stub_0.1
 #FROM adoptopenjdk/openjdk11:ubi
 #ARG JAR_FILE_APP=target/*.jar
 #ARG JAR_FILE_JOLOKIA=/*.jar
